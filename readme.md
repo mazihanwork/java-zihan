@@ -50,3 +50,12 @@ Please let us know more about your Java experience in a few sentences. For examp
 - I have 3 years experience in Java and I started to use Spring Boot from last year
 - I'm a beginner and just recently learned Spring Boot
 - I know Spring Boot very well and have been using it for many years
+
+### Enhancement
+- Validation of controller parameters to protect the data being processed and persisted.
+- Response messages for more user side errors to make the API more interactive.
+- Unit tests for controller behavior.
+
+### My experience in Java
+- 5 years enterprise experience.
+- 4 years Spring Boot based development.
